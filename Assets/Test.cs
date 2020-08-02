@@ -8,7 +8,7 @@ public class Test : MonoBehaviour
     private string str;
     void Start()
     {
-        str = "Hello World";
+        str = "你好";
     }
 
     // Update is called once per frame
